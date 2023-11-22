@@ -7,5 +7,5 @@ Habilidades: Laravel / C# / SQL /Power BI / Looker Studio / Excel
 - 📫 Cómo contactarme: navarretee210@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/•	www.linkedin.com/in/edwin-navarrete210/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/edwin-navarrete210/)  
 
