@@ -1,9 +1,11 @@
 ### Hola 👋, Soy Edwin Navarrete
-Soy Ingeniero en Sistemas, apasionado por el Data Analytics, con habilidades de desarrollo, diseño y
-compresión de datos, también he estado en proyectos de desarrollo de aplicaciones web. Mi creatividad y
-atención en las buenas prácticas me permiten cumplir con los estándares. Implemento una comunicación
-asertiva para forjar equipos productivos enfocados en resultados. Mi compromiso es con el aprendizaje
-continuo y la búsqueda del cumplimiento de metas.
+Soy Ingeniero en Sistemas, apasionado por la Programación y el Análisis de Datos ,mi atención en las buenas
+prácticas me permiten cumplir con los estándares. Mi enfoque analítico y creativo, combinado con mi
+capacidad para colaborar eficazmente en equipos multidisciplinarios, me convierte en un recurso valioso en
+proyectos que buscan innovar y mejorar a través del uso inteligente de la tecnología y los datos. Estoy
+comprometido con el aprendizaje continuo y la aplicación de las últimas tendencias y mejores prácticas en
+análisis de datos y programación para impulsar el éxito de proyectos y organizaciones.
+
 
 Lenguajes de programacion : PHP / C# / Python 
 
