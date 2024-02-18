@@ -9,7 +9,7 @@ análisis de datos y programación para impulsar el éxito de proyectos y organi
 
 Lenguajes de programacion : PHP / C# / Python 
 
-Frameworks : Laraver / DJango
+Frameworks : Laraver / DJango / Angular
 
 Base de datos : MySQL / SQL Server / Postgres SQL
 
